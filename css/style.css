@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*body{*/
+    /*overflow: hidden;*/
+/*}*/
+
+.bg-img{
+    background: white;
+}
+
+.containerCust{
+    /*padding-left: 50px !important;*/
+    padding-left: 0px !important;
+}
+
+.navbarCust{
+    margin-left: 500px;
+}
+
+/*.navbarCust1{*/
+    /*position: relative;*/
+    /*background-color: #BB86DB !important;*/
+/*}*/
+
+.containerCust1{
+ /*background-size: cover;*/
+    position: absolute;
+    background-color: #BB86DB !important;
+    /*height:500px;*/
+    /*margin-left: 10px !important;*/
+}
+.mujibLogo{
+    margin-left: 185px;
+}
+
+.navTxt1{
+    color: black !important;
+}
+
+.navTxt2{
+    color: black !important;
+}
+
+.navTxt3{
+    color: black !important;
+}
+
+.btnCust{
+    color: white;
+    margin-left: 390px;
+}
+
+.citizenLogin{
+    color: white;
+    position: absolute;
+    margin-left: 400px;
+}
+
+.bgBanner{
+    color: #8C33BB !important;
+    /*height: 300px !important;*/
+    /*width: 500px!important;*/
+}
+
+.bannerCust{
+    background: #8C33BB !important;
+    height: 500px !important;
+}
+
+.bannerText{
+    margin-top: 100px;
+    margin-left: -80px;
+}
+
+.bannerDesc{
+    justify-content: center;
+    margin-left: 96px;
+}
+.bannerDesc1{
+    justify-content: center;
+    margin-left: -288px;
+    margin-top: 30px;
+}
+
+.applyBtn{
+    margin-left: -100px;
+    margin-top: 35px;
+    background-color: white;
+    width: 110px;
+    border-radius: 20px;
+}
+
+.portfolio{
+    margin-top: 30px;
+}
+
+.banner2{
+    background: #9C3D9B;
+    height: 300px;
+}
+
+.cardCust1{
+    margin-top: 100px;
+}
+
+.cardCust2{
+    margin-top: 100px;
+}
+
+.cardCust3{
+    margin-top: 100px;
+}
+
+.cardCust4{
+    margin-top: 100px;
+}
+
+.cardCust5{
+    margin-top: 100px;
+}
+
+.banner4{
+    background: #9C3D9B;
+}
+
+.ownerTxt{
+    color: white;
+    padding-top: 80px;
+}
+
+.mediaNews{
+    margin-top: 30px;
+}
+
+.citizenLogin {
+    color: white;
+    position: absolute;
+    margin-top: -19px;
+    margin-left: 215px;
+}
+.readTxt{
+    margin-left: -225px;
+}
+
+.statTxt{
+    margin-top: 40px;
+}
+
+.footerBg{
+    background: #9C3D9B;
+}
